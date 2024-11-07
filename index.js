@@ -98,8 +98,8 @@ bot.onText(/\/start/, (msg) => {
   // Send a message with the introduction and instructions
   bot.sendMessage(
     chatId,
-    `Hey, I am TsuyuDL made by @TsuyuOfficial. Use the following commands to use me! 
+    `Hey, I am Ytdlp made by @NoobPrivate. Use the following commands to use me! 
 
-/yt - Give any youtube link and TsuyuDL will download it for you.`
+/yt - Give any youtube link and will download it for you.`
   );
 });
